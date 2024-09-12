@@ -1,4 +1,4 @@
-![RHCSA](https://user-images.githubusercontent.com/80536675/222508192-136e187a-6db1-4298-ad99-7f300fd34ca6.jpg)
+![RHCSA]
 
 
 # Inspiration:
