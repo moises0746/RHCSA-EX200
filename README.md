@@ -1,5 +1,3 @@
-![RHCSA]
-
 
 # Inspiration:
 This repository is built to help you as beginner to Understand linux system administration, And walk you through RHCE_EX200 study Topics from setting up a lab to mastry in system administration, and ensure that you're ready for the RHCE EX200 exam.
