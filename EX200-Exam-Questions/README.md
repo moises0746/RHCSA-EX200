@@ -9,10 +9,10 @@ You will be given 2 RHEL 8 virtual machines which you need to configure properly
 
 One VM will be configured as an Server-A and another would be Server-B. there will be a repository VM which will enable you to install packages to your VMs. The following FQDNs will be used throughout the sample exam.
 
-| FQDN                        | Description | IP Addresses   | Network mask  |
-| --------------------------- | ----------- | -------------- | ------------- |
-| node1.domain250.example.com | node1       | 172.25.250.100 | 255.255.255.0 |
-| node2.domain250.example.com | node2       | 172.25.250.101 | 255.255.255.0 |
+| FQDN                      | Description | IP Addresses   | Network mask  |
+| ------------------------- | ----------- | -------------- | ------------- |
+| servera.rhcsa.example.com | servera     | 172.25.250.100 | 255.255.255.0 |
+| serverb.rhcsa.example.com | serverb     | 172.25.250.101 | 255.255.255.0 |
 
 ## Lab Setup
 
